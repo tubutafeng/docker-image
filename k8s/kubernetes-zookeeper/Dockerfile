@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kubernetes-zookeeper:latest
+FROM k8s.gcr.io/kubernetes-zookeeper
