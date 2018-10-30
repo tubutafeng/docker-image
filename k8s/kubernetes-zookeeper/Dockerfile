@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kubernetes-zookeeper
+FROM gcr.io/google_containers/kubernetes-zookeeper
