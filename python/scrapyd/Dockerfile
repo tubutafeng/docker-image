@@ -1,5 +1,4 @@
-from rackspacedot/python37
-copy ./requirements.txt /opt/
-workdir /opt
-run pip install -r requirements.txt
+from python
+run pip install scrapyd
+expose 8600
 cmd ["scrapyd"]
