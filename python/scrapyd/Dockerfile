@@ -1,4 +1,4 @@
 from python
 run pip install scrapyd
-expose 8600
+expose 6800
 cmd ['scrapyd']
